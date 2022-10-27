@@ -1,0 +1,44 @@
+body {
+  font-family: "arial", sans-serif, "century gothic";
+  background-color: black;
+}
+
+#ad{
+  width: 300px;
+  height: 600px;  
+  margin-left: 20%;
+  margin-top: 20%;
+  background-image: url(https://wallpaperaccess.com/full/650870.jpg);
+}
+
+#logo{
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+h1 {
+  font-size:24px;
+  line-height: 1.1;
+  color:rgb(3, 74, 82);
+  text-align: center;
+  
+}
+
+p{
+  font-size: 14px;
+  color: white;
+  padding: 10%;
+  text-align: center;
+}
+.weather__temp{
+  color: black;
+  margin-top: 0%;
+  text-align: center;
+  
+}
+#type{
+  width: 50%;
+  margin-left: 25%;
+}
